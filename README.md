@@ -1,1 +1,1 @@
-# practicing-pr
+# updated readme for leanring
