@@ -1,2 +1,2 @@
-# updated readme for leanring ashu2 
+# jargon text
  
